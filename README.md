@@ -1,4 +1,4 @@
-# The Complete Guide To Building A REST API With Node, Express, TypeScript & MongoDB
+# REST API With Node, Express, TypeScript & MongoDB
 
 Features:
 
